@@ -1,4 +1,4 @@
-# LeetCode-Solution
+# LeetCode-Solution-Python
 
 |Problem Number|Problem Statement|Solution|
 |:---:|:---:|:---:|
