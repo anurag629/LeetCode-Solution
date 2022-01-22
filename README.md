@@ -15,4 +15,5 @@
 | 997 | Squares of a Sorted Array | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/977.%20Squares%20of%20a%20Sorted%20Array) |
 | 1920 | Build Array from Permutation | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/1920.%20Build%20Array%20from%20Permutation) |
 | 1929 | Concatenation of Array | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/1929.%20Concatenation%20of%20Array) |
+| ... | .. | .. |
 
