@@ -3,6 +3,7 @@
 |Problem Number|Problem Statement|Solution|
 |:---:|:---:|:---:|
 | 1 | Two Sum | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/1.%20Two%20Sum) |
+| 3 | Longest Substring Without Repeating Characters | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters) |
 | 9 | Palindrome Number | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/9.%20Palindrome%20Number) |
 | 35 | Search Insert Position | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/35.%20Search%20Insert%20Position) |
 | 167 | Two Sum II - Input Array Is Sorted | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
