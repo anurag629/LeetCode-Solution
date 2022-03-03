@@ -22,6 +22,7 @@
 | 704 | Binary Search | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/704.%20Binary%20Search) |
 | 876 | Middle of the Linked List | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/876.%20Middle%20of%20the%20Linked%20List) |
 | 997 | Squares of a Sorted Array | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/977.%20Squares%20of%20a%20Sorted%20Array) |
+| 1491 |  Average Salary Excluding the Minimum and Maximum Salary | [View Solution](https://github.com/anurag629/LeetCode-Solution/blob/main/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) |
 | 1523 | Count Odd Numbers in an Interval Range | [View Solution](https://github.com/anurag629/LeetCode-Solution/blob/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) |
 | 1920 | Build Array from Permutation | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/1920.%20Build%20Array%20from%20Permutation) |
 | 1929 | Concatenation of Array | [View Solution](https://github.com/anurag629/LeetCode-Solution/tree/main/1929.%20Concatenation%20of%20Array) |
